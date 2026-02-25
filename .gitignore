@@ -1,0 +1,11 @@
+# Excel files
+*.xlk
+~$*.xlsx
+*.tmp
+
+# Keep the main Excel file (if you want to track it)
+!income-Expense.xlsx
+
+# System files
+.DS_Store
+Thumbs.db
